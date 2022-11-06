@@ -1,6 +1,6 @@
 {
-    "version": "stable #12",
-    "versionCode": 12,
-    "zipUrl": "https://github.com/alicee98/MTKPERF_HostUpdate/releases/download/V12/MTKPERF.G.SERIES.zip",
+    "version": "stable #12.1",
+    "versionCode": 121,
+    "zipUrl": "https://github.com/alicee98/MTKPERF_HostUpdate/releases/download/V12.1/MTKPERF.G.SERIES.zip",
     "changelog": "https://raw.githubusercontent.com/alicee98/MTKPERF_HostUpdate/main/changelog.md"
 }
