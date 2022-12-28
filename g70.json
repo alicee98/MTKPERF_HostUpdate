@@ -1,6 +1,6 @@
 {
-    "version": "stable #12",
-    "versionCode": 12,
-    "zipUrl": "https://github.com/alicee98/MTKPERF_HostUpdate/releases/download/V12/MTKPERF.G.SERIES.zip",
+    "version": "13.1-LTS",
+    "versionCode": 131,
+    "zipUrl": "https://github.com/alicee98/MTKPERF_HostUpdate/releases/download/V13.1-LTS/MTKPERF-SERAYU-LTS.zip",
     "changelog": "https://raw.githubusercontent.com/alicee98/MTKPERF_HostUpdate/main/changelog.md"
 }
